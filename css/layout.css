@@ -260,10 +260,10 @@ body.royal_loader {
 }
 .cbp-af-header.cbp-af-header-shrink .logo{
 	width:100px;
-	height:40px;
+	height:100px;
 	top:10px;
 	background:url('../images/logo-light.png') no-repeat center center;
-	background-size:100px 40px;
+	background-size:100px 100px;
 	-webkit-transition : all 0.3s ease-out;
 	-moz-transition : all 0.3s ease-out;
 	-o-transition :all 0.3s ease-out;
@@ -315,12 +315,12 @@ ul.slimmenu li ul {
 .logo{
 	position:absolute;
 	width:120px;
-	height:48px;
+	height:120px;
 	z-index:10000;
 	left:40px;
 	top:7px;
 	background:url('../images/logo.png') no-repeat center center;
-	background-size:120px 48px;
+	background-size:120px 120px;
 	-webkit-transition : all 0.3s ease-out;
 	-moz-transition : all 0.3s ease-out;
 	-o-transition :all 0.3s ease-out;
@@ -4091,11 +4091,11 @@ animated buttons - animate the text inside prev and next buttons
 }
 .logo{
 	width:100px;
-	height:40px;
+	height:100px;
 	top:10px;
 	left:30px;
 	background:url('../images/logo.png') no-repeat center center;
-	background-size:100px 40px;
+	background-size:100px 100px;
 }
 .cbp-af-header.cbp-af-header-shrink .logo{
 	width:100px;
